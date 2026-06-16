@@ -2,7 +2,7 @@
 
 Click on Export to eBay to export products from Magento 2 to ebay.
 
-<img src="/images/ProductImportUpdatedFeature/ExportProductToEbay.png" alt="Ebay-Connector-blog-3" />
+![Ebay-Connector-blog-3](/images/ProductImportUpdatedFeature/ExportProductToEbay.png)
 
 After clicking the **Export to eBay**, the admin will see a **pop-up** window.
 
@@ -14,6 +14,6 @@ So, the admin can even **export a single product** by entering the **SKU of the 
 
 However, the products whose visibility is set as Not Visible Individually will not be exported.
 
-[!\[image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/export-product-sku-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/export-product-sku-1.png)After clicking the “**Export Product to eBay**“, you will see the below screen. Now, when the ** synchronization** is complete you can see the total number of products synced to eBay.
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/export-product-sku-1.png)After clicking the “**Export Product to eBay**“, you will see the below screen. Now, when the ** synchronization** is complete you can see the total number of products synced to eBay.
 
 ![exporting message-eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/exporting-message.png)

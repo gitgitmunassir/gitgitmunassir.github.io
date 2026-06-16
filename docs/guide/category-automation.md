@@ -2,7 +2,7 @@
 
 The **Category Automation** feature under **eBay Magento Connect > Category Automation** lets the admin fetch real-time eBay categories and automatically create the matching Magento category hierarchy, then map selected leaf categories to eBay without manual one-by-one mapping.
 
-<img src="/images/CategoriesUpdatedFeature/CategoryAutomation.png" alt="eBay Category Automation" />
+![eBay Category Automation](/images/CategoriesUpdatedFeature/CategoryAutomation.png)
 
 ***Search Filters Fields-***
 
@@ -15,11 +15,11 @@ The **Category Automation** feature under **eBay Magento Connect > Category Auto
 
 Use the search bar to filter by **Category ID / Name / Path**, then select one or more **leaf** categories (only leaf rows are selectable) from the grid columns **eBay Category ID**, **Name**, **Path**, and **Leaf**.
 
-<img src="/images/CategoriesUpdatedFeature/CategoryAutomationListing.png" alt="eBay Category Automation Listing" />
+![eBay Category Automation Listing](/images/CategoriesUpdatedFeature/CategoryAutomationListing.png)
 
 After loading categories, the admin can filter by parent category (for example, **Dolls & Bears**), review the full category path for each row, and select the leaf categories to automate. Pagination and rows-per-page controls help navigate large category trees.
 
-<img src="/images/CategoriesUpdatedFeature/CategoryAutomationMappingAndCreation.png" alt="eBay Category Automation Results" />
+![eBay Category Automation Results](/images/CategoriesUpdatedFeature/CategoryAutomationMappingAndCreation.png)
 
 When automation completes, a summary popup displays the results:
 

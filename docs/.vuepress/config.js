@@ -5,7 +5,7 @@ import { defineUserConfig } from 'vuepress'
 export default defineUserConfig({
   bundler: viteBundler(),
   theme: defaultTheme({
-    logo: '/logo.svg',
+    logo: '/webkul-logo.png',
     navbar: [
       { text: 'Guide', link: '/guide/' },
       {
@@ -27,6 +27,7 @@ export default defineUserConfig({
           text: 'Getting Started',
           children: [
             '/guide/',
+            '/guide/quick-start.md',
             '/guide/features-of-ebay-connector-for-magento-2-adobe-commerce.md',
             '/guide/installation.md',
             '/guide/multilingual.md',
@@ -95,7 +96,7 @@ export default defineUserConfig({
   description: 'Official documentation for Webkul eBay Magento Connect extension — import, export, sync orders, and automate listings.',
 
   head: [
-    ['link', { rel: 'icon', href: '/logo.svg' }],
+    ['link', { rel: 'icon', href: '/webkul-logo.png' }],
     ['meta', { name: 'theme-color', content: '#E53238' }],
   ],
 

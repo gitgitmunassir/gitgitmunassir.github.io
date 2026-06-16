@@ -53,7 +53,7 @@ Thus, the admin will configure the settings for the following configuration sect
 - Order Creation and Inventory Management- This will create an order and deduct the quantity in the inventory as the item is sold on the eBay store.
 - Only Inventory Management- This will only deduct the quantity in the inventory on the Magento2 store as the item on the eBay store.
 
-#### **Store Settings**[!\[image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Configuration-Settings-Stores-Magento-Admin-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Configuration-Settings-Stores-Magento-Admin-1.png)
+#### **Store Settings**![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Configuration-Settings-Stores-Magento-Admin-1.png)
 
 ***Store Settings Fields***
 
@@ -63,7 +63,7 @@ Thus, the admin will configure the settings for the following configuration sect
 
 #### **Returns Policy**
 
-#### [!\[magento2 ebay connector\](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/webkul-magento2-ebay-connector-return-policy.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/webkul-magento2-ebay-connector-return-policy.png)
+#### ![magento2 ebay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/webkul-magento2-ebay-connector-return-policy.png)
 
 ***Return Policy Fields***
 
@@ -100,7 +100,7 @@ Against the Dispatch Time field, the admin needs to select the dispatch time for
 
 ![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/module-configuration-dispatch.png)
 
-#### **Payment Options**[!\[payment_option-eBay Connector for Magento2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Configuration-Settings-Stores-Magento-Adminpayment.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Configuration-Settings-Stores-Magento-Adminpayment.png)*** Fields-***
+#### **Payment Options**![payment_option-eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Configuration-Settings-Stores-Magento-Adminpayment.png)*** Fields-***
 
 - Paypal Email Address – Enter your PayPal email ID.
 - Default Category – When the eBay category is not mapped with Magento then products will assign to this category.

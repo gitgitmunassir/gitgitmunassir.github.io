@@ -2,7 +2,7 @@
 
 Navigate to **eBay Magento Connect > Export Queue Log** to monitor the status of each queued product export.
 
-<img src="/images/ExportProductRelatedImages/ExportQueueLog.png" alt="Export Queue Log" />
+![Export Queue Log](/images/ExportProductRelatedImages/ExportQueueLog.png)
 
 ***Grid Columns-***
 

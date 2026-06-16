@@ -2,7 +2,7 @@
 
 When **Use Bulk Feed API** is enabled under **Automatic Product Export To eBay**, products are exported in batches via the eBay Sell Feed API (`LMS_ADD_FIXED_PRICE_ITEM`). Navigate to **eBay Magento Connect > Bulk Export Tasks** to monitor these background batch jobs.
 
-<img src="/images/ExportProductRelatedImages/BulkExportTask.png" alt="Bulk Export Tasks" />
+![Bulk Export Tasks](/images/ExportProductRelatedImages/BulkExportTask.png)
 
 ***Grid Columns-***
 

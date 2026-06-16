@@ -13,7 +13,7 @@ Some of the following details that get exported are mentioned below like:-
 
 When a product is imported from or exported to eBay, the module syncs the product-level shipping charge to the **eBay Shipping Details** attribute group on the Magento product edit form.
 
-<img src="/images/EbayProductShipping/ShippingFieldAtProductForm.png" alt="eBay Shipping Cost on Product Form" />
+![eBay Shipping Cost on Product Form](/images/EbayProductShipping/ShippingFieldAtProductForm.png)
 
 ***Fields-***
 
@@ -23,15 +23,15 @@ When a product is imported from or exported to eBay, the module syncs the produc
 
 Enable the carrier under **Stores > Configuration > Sales > Delivery Methods > eBay Product Shipping**. At checkout, shipping rates are calculated from each product's **eBay Shipping Cost** attribute.
 
-<img src="/images/EbayProductShipping/EbayProductShipping.png" alt="eBay Product Shipping on Shopping Cart" />
+![eBay Product Shipping on Shopping Cart](/images/EbayProductShipping/EbayProductShipping.png)
 
 - **Shopping Cart** – When estimating shipping and tax, **eBay Product Shipping - eBay Shipping** appears as a shipping method with the product-level shipping cost applied.
 
-<img src="/images/EbayProductShipping/CheckoutIWithShipping.png" alt="eBay Product Shipping at Checkout" />
+![eBay Product Shipping at Checkout](/images/EbayProductShipping/CheckoutIWithShipping.png)
 
 - **Checkout** – On the Review & Payments step, the selected **eBay Product Shipping** method and its cost are displayed in the order summary along with the cart subtotal and order total.
 
-<img src="/images/EbayProductShipping/AdminOrderDetailPage.png" alt="eBay Shipping on Admin Order Detail Page" />
+![eBay Shipping on Admin Order Detail Page](/images/EbayProductShipping/AdminOrderDetailPage.png)
 
 - **Admin Order** – After the order is placed, the **Shipping & Handling Information** section on the admin order view shows **eBay Product Shipping - eBay Shipping** with the synced shipping cost.
 
@@ -63,7 +63,7 @@ However, only the standard available shipping methods available at the Magento s
 - Irregular Package: Can be chosen as Yes or No. This field shall notify the carrier that this package requires special handling.
 - Measurement Unit: The admin can select either of the two-unit types to measure weight and dimensions- English System of Measurement, or Metric System of Measurement.
 
-#### **Order Sync Option**[!\[eBay Connector for Magento2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/webkul-magento2-ebay-connector-order-sync.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/webkul-magento2-ebay-connector-order-sync.png)
+#### **Order Sync Option**![eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/webkul-magento2-ebay-connector-order-sync.png)
 
 **Order Sync Option Fields:**
 
@@ -78,7 +78,7 @@ However, only the standard available shipping methods available at the Magento s
 
 ![magento2 ebay connector aria2c configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/09/webkul-magento2-ebay-connector-aria2c-config.webp)
 
-<img src="/images/EbayAddedConfigurations/ProductOutOfStockAndPriceFilter.png" alt="Product Out-of-Stock and Price Range Filter" />
+![Product Out-of-Stock and Price Range Filter](/images/EbayAddedConfigurations/ProductOutOfStockAndPriceFilter.png)
 
 ***Fields-***
 
@@ -97,7 +97,7 @@ aria2c -d var/import/images/productimages -i var/import/catalog_product_images_a
 
 #### **Automatic Product Export To eBay**
 
-<img src="/images/EbayAddedConfigurations/AutoExportSettings.png" alt="Automatic Product Export To eBay" />
+![Automatic Product Export To eBay](/images/EbayAddedConfigurations/AutoExportSettings.png)
 
 ***Fields-***
 
@@ -110,7 +110,7 @@ aria2c -d var/import/images/productimages -i var/import/catalog_product_images_a
 
 #### Default Business Policy
 
-[!\[eBay Connector for Magento2_default business policy\](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/webkul-magento2-ebay-connector-default-business-policy.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/webkul-magento2-ebay-connector-default-business-policy.png)
+![eBay Connector for Magento2_default business policy](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/webkul-magento2-ebay-connector-default-business-policy.png)
 
 ##### ***Fields-***
 
@@ -133,4 +133,4 @@ The **eBay Magento Connect **includes the following Dashboard Options once the a
 - Real-Time Missed Orders, and
 - Configuration
 
-<img src="/images/EbayMagentoConnectorMenu.png" alt="navigation_eBay Connector for Magento2" />
+![navigation_eBay Connector for Magento2](/images/EbayMagentoConnectorMenu.png)

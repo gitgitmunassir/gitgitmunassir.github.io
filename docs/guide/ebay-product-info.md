@@ -4,7 +4,7 @@ Please make sure you have provided all the necessary information for the exporte
 
 However, you will need to mention ** eBay specifications, conditions, and variations** (if any) in Magento products.
 
-[!\[eBay-Product-Visible- eBay Connector for Magento2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/eBay-Product-Visible.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/eBay-Product-Visible.png)
+![eBay-Product-Visible- eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/eBay-Product-Visible.png)
 
 **Please Note: **
 
@@ -17,4 +17,4 @@ For example, the admin has mapped his Magento 2 **store category**(having camera
 
 Now, after the admin **exports** his product to **eBay **he can edit the imported product on eBay to check the product’s **eBay store category** according to the **mapping**.
 
-[!\[eBay-Product-Visible-eBay Connector for Magento2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Product-Detail-Category.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Product-Detail-Category.png)
+![eBay-Product-Visible-eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Product-Detail-Category.png)

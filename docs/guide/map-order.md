@@ -10,7 +10,7 @@ The admin can import the orders from the eBay store.
 
 Here, the admin will click on “Import Order from eBay” tab, an eBay Order Range page will open as per the below image.
 
-[!\[image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/IMPORT-ORDER.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/IMPORT-ORDER.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/IMPORT-ORDER.png)
 
 The admin will enter the date range. Proceed by clicking on **Import Order from eBay** and then orders will be imported from eBay to Magento 2 store.
 
@@ -24,7 +24,7 @@ Thus, if the eBay Product is not synced with Magento 2 store then the system wil
 
 **2. Run eBay Order Profiler**
 
-[!\[Run eBay Order profiler\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Map-eBay-Order.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Map-eBay-Order.png)
+![Run eBay Order profiler](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Map-eBay-Order.png)
 
 Now, the admin will click on **Run eBay Order Profiler** and orders from eBay will be imported and admin can see how much orders are imported and how many orders are left.
 

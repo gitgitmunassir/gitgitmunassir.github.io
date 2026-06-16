@@ -2,7 +2,7 @@
 
 Navigate to **eBay Magento Connect > Map Product**. From the **Sync From eBay** dropdown, select **Import Product From eBay** to fetch product data from eBay and store it in the Magento database.
 
-<img src="/images/ProductImportUpdatedFeature/ProductImportOptions.png" alt="Map Product Sync From eBay Options" />
+![Map Product Sync From eBay Options](/images/ProductImportUpdatedFeature/ProductImportOptions.png)
 
 The **Sync From eBay** menu provides the following product sync actions:
 
@@ -14,7 +14,7 @@ The **Sync From eBay** menu provides the following product sync actions:
 
 After clicking **Import Product From eBay**, the following pop-up window will appear.
 
-<img src="/images/ProductImportUpdatedFeature/ImportProductPopup.png" alt="Import Product From eBay Popup" />
+![Import Product From eBay Popup](/images/ProductImportUpdatedFeature/ImportProductPopup.png)
 
 ***Import Fields-***
 
@@ -25,17 +25,17 @@ After clicking **Import Product From eBay**, the following pop-up window will ap
 
 Hence, click the **Import Product From eBay** button as visible in the screenshot above.
 
-[!\[image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Mapped-Products-List-eBay-Magento-Connect-Magento-Admin.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Mapped-Products-List-eBay-Magento-Connect-Magento-Admin.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Mapped-Products-List-eBay-Magento-Connect-Magento-Admin.png)
 
 When the admin will click on “Import Product from eBay”, the product data will be created and stored in Magento 2 database.
 
-[!\[image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/ebay-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/ebay-1.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/ebay-1.png)
 
 #### Bulk Migrate Listing
 
 From the **Sync From eBay** dropdown, select **Migrate Listing By ID** to migrate specific eBay listings into the Inventory API using their listing IDs.
 
-<img src="/images/ProductImportUpdatedFeature/BulkMigrateListing.png" alt="Bulk Migrate Listing" />
+![Bulk Migrate Listing](/images/ProductImportUpdatedFeature/BulkMigrateListing.png)
 
 ***Fields-***
 

@@ -4,7 +4,7 @@ This section will help the admin to create a price rule which will be applied to
 
 On Price Rules For the eBay page, the admin can create multiple rules by clicking on **Add Rule.** However, the admin can even **edit** the previous price rule.
 
-[!\[image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-8-.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-8-.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-8-.png)
 
 The price rule can be created by the admin by filling the following information-
 
@@ -15,4 +15,4 @@ The price rule can be created by the admin by filling the following information-
 - Price- The admin can state here the amount which will be added or deducted from the product amount.
 - Status– The admin can enable or disable the status of the price rule.
 
-[!\[image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-9-.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-9-.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-9-.png)

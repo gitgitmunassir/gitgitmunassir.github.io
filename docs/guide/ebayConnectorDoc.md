@@ -138,7 +138,7 @@ So, the module will translate into the German Language. However, it supports bot
 ![multi-language-csv](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/09/multi-language-csv.webp)
 
 Thus, the user can edit the CSV like the image below.  
-[!\[eBay Connector for Magento2 image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Screenshot-from-2018-04-23-17-33-44.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Screenshot-from-2018-04-23-17-33-44.png)
+![eBay Connector for Magento2 image](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Screenshot-from-2018-04-23-17-33-44.png)
 
 ### eBay Connector for Magento2 Configuration
 
@@ -154,12 +154,12 @@ However, if the user doesn’t have an account, then the user will have to creat
 
 To create a new account go to [**developer.ebay.com**](https://developer.ebay.com) and click on the **sign-in/Join link**.
 
-[!\[Sign-Up\](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/Sign-Up.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/Sign-Up.png)
+![Sign-Up](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/Sign-Up.png)
 
 #### **Second Step**
 
 Now, create a **username** and **password** for your account and then click the **join** button.  
-[!\[Register- eBay Connector for Magento2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/Register.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/Register.png)
+![Register- eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/Register.png)
 
 #### Third Step
 
@@ -167,29 +167,29 @@ After the above step, you need to create an app. Enter the **app name** and choo
 
 So, keep a note that when you generate the keys set then only the app saves.
 
-[!\[eBay Connector for Magento 2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/App-name.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/App-name.pnge)
+![eBay Connector for Magento 2](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/App-name.png)
 
 #### **Fourth Step**
 
 So, after clicking on the **Create a Keyset** link(for the environment you choose), you need to confirm the primary contact for this account first.
 
 Henceforth you can click the **Continue to Create Keys** button.  
-[!\[confirm-primary-Account eBay Connector for Magento2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/confirm-primary-Account-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/confirm-primary-Account-1.png)
+![confirm-primary-Account eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/confirm-primary-Account-1.png)
 
 #### Fifth Step
 
 Now you can see the environment key that you select. Thus, for creating the production keys just click on the “**Create a Key Set**” and you will get your production keys.  
-[!\[Sandbox-keys-eBay Connector for Magento2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/Sandbox-keys.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/Sandbox-keys.png)
+![Sandbox-keys-eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/Sandbox-keys.png)
 
 #### **Sixth Step**
 
 Thus, for generating the **User Token** go to your **Application keys page**. Hence, in the **App ID** row of the Sandbox keyset, click the **User Tokens** to access the Tokens page for your Sandbox keyset.  
-[!\[image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/Sandbox-keys-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/Sandbox-keys-1.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/Sandbox-keys-1.png)
 
 #### Seventh ** Step**
 
 After you click on **“User Tokens”** in the snapshot above, you will see a “**Sign in to Sandbox**” button. Hence, click it to access the sandbox account.  
-[!\[image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/Sign-In-Sandbox.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/Sign-In-Sandbox.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/Sign-In-Sandbox.png)
 
 So, from here, the user can even get an ‘**eBay Oauth Key**‘ which they can add to **Default Business Policy**.
 
@@ -206,18 +206,18 @@ https://**domainname**/ebaymagentoconnect/index/fetchtoken
 #### **Eighth** Step
 
 Now, enter your Sandbox **Username** and **Password**.  
-[!\[image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/login-sandbox.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/login-sandbox.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/login-sandbox.png)
 
 #### Ninth Step
 
 Hence, after clicking the “**Sign in**” button, you will see another page where you have to click the “**Agree**” button.
 
-[!\[image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/Agree.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/Agree.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/Agree.png)
 
 #### Tenth Step
 
 Lastly, you will redirect back and will get the **App Token**.  
-[!\[App-Token-eBay Connector for Magento2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/App-Token.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/App-Token.png)
+![App-Token-eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2014/02/App-Token.png)
 
 ### eBay Magento Connect Configuration
 
@@ -274,7 +274,7 @@ Thus, the admin will configure the settings for the following configuration sect
 - Order Creation and Inventory Management- This will create an order and deduct the quantity in the inventory as the item is sold on the eBay store.
 - Only Inventory Management- This will only deduct the quantity in the inventory on the Magento2 store as the item on the eBay store.
 
-#### **Store Settings**[!\[image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Configuration-Settings-Stores-Magento-Admin-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Configuration-Settings-Stores-Magento-Admin-1.png)
+#### **Store Settings**![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Configuration-Settings-Stores-Magento-Admin-1.png)
 
 ***Store Settings Fields***
 
@@ -284,7 +284,7 @@ Thus, the admin will configure the settings for the following configuration sect
 
 #### **Returns Policy**
 
-#### [!\[magento2 ebay connector\](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/webkul-magento2-ebay-connector-return-policy.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/webkul-magento2-ebay-connector-return-policy.png)
+#### ![magento2 ebay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/webkul-magento2-ebay-connector-return-policy.png)
 
 ***Return Policy Fields***
 
@@ -321,7 +321,7 @@ Against the Dispatch Time field, the admin needs to select the dispatch time for
 
 ![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/module-configuration-dispatch.png)
 
-#### **Payment Options**[!\[payment_option-eBay Connector for Magento2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Configuration-Settings-Stores-Magento-Adminpayment.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Configuration-Settings-Stores-Magento-Adminpayment.png)*** Fields-***
+#### **Payment Options**![payment_option-eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Configuration-Settings-Stores-Magento-Adminpayment.png)*** Fields-***
 
 - Paypal Email Address – Enter your PayPal email ID.
 - Default Category – When the eBay category is not mapped with Magento then products will assign to this category.
@@ -344,7 +344,7 @@ Some of the following details that get exported are mentioned below like:-
 
 When a product is imported from or exported to eBay, the module syncs the product-level shipping charge to the **eBay Shipping Details** attribute group on the Magento product edit form.
 
-<img src="/images/EbayProductShipping/ShippingFieldAtProductForm.png" alt="eBay Shipping Cost on Product Form" />
+![eBay Shipping Cost on Product Form](/images/EbayProductShipping/ShippingFieldAtProductForm.png)
 
 ***Fields-***
 
@@ -354,15 +354,15 @@ When a product is imported from or exported to eBay, the module syncs the produc
 
 Enable the carrier under **Stores > Configuration > Sales > Delivery Methods > eBay Product Shipping**. At checkout, shipping rates are calculated from each product's **eBay Shipping Cost** attribute.
 
-<img src="/images/EbayProductShipping/EbayProductShipping.png" alt="eBay Product Shipping on Shopping Cart" />
+![eBay Product Shipping on Shopping Cart](/images/EbayProductShipping/EbayProductShipping.png)
 
 - **Shopping Cart** – When estimating shipping and tax, **eBay Product Shipping - eBay Shipping** appears as a shipping method with the product-level shipping cost applied.
 
-<img src="/images/EbayProductShipping/CheckoutIWithShipping.png" alt="eBay Product Shipping at Checkout" />
+![eBay Product Shipping at Checkout](/images/EbayProductShipping/CheckoutIWithShipping.png)
 
 - **Checkout** – On the Review & Payments step, the selected **eBay Product Shipping** method and its cost are displayed in the order summary along with the cart subtotal and order total.
 
-<img src="/images/EbayProductShipping/AdminOrderDetailPage.png" alt="eBay Shipping on Admin Order Detail Page" />
+![eBay Shipping on Admin Order Detail Page](/images/EbayProductShipping/AdminOrderDetailPage.png)
 
 - **Admin Order** – After the order is placed, the **Shipping & Handling Information** section on the admin order view shows **eBay Product Shipping - eBay Shipping** with the synced shipping cost.
 
@@ -394,7 +394,7 @@ However, only the standard available shipping methods available at the Magento s
 - Irregular Package: Can be chosen as Yes or No. This field shall notify the carrier that this package requires special handling.
 - Measurement Unit: The admin can select either of the two-unit types to measure weight and dimensions- English System of Measurement, or Metric System of Measurement.
 
-#### **Order Sync Option**[!\[eBay Connector for Magento2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/webkul-magento2-ebay-connector-order-sync.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/webkul-magento2-ebay-connector-order-sync.png)
+#### **Order Sync Option**![eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/webkul-magento2-ebay-connector-order-sync.png)
 
 **Order Sync Option Fields:**
 
@@ -409,7 +409,7 @@ However, only the standard available shipping methods available at the Magento s
 
 ![magento2 ebay connector aria2c configuration](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/09/webkul-magento2-ebay-connector-aria2c-config.webp)
 
-<img src="/images/EbayAddedConfigurations/ProductOutOfStockAndPriceFilter.png" alt="Product Out-of-Stock and Price Range Filter" />
+![Product Out-of-Stock and Price Range Filter](/images/EbayAddedConfigurations/ProductOutOfStockAndPriceFilter.png)
 
 ***Fields-***
 
@@ -428,7 +428,7 @@ aria2c -d var/import/images/productimages -i var/import/catalog_product_images_a
 
 #### **Automatic Product Export To eBay**
 
-<img src="/images/EbayAddedConfigurations/AutoExportSettings.png" alt="Automatic Product Export To eBay" />
+![Automatic Product Export To eBay](/images/EbayAddedConfigurations/AutoExportSettings.png)
 
 ***Fields-***
 
@@ -441,7 +441,7 @@ aria2c -d var/import/images/productimages -i var/import/catalog_product_images_a
 
 #### Default Business Policy
 
-[!\[eBay Connector for Magento2_default business policy\](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/webkul-magento2-ebay-connector-default-business-policy.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/webkul-magento2-ebay-connector-default-business-policy.png)
+![eBay Connector for Magento2_default business policy](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/webkul-magento2-ebay-connector-default-business-policy.png)
 
 ##### ***Fields-***
 
@@ -464,7 +464,7 @@ The **eBay Magento Connect **includes the following Dashboard Options once the a
 - Real-Time Missed Orders, and
 - Configuration
 
-<img src="/images/EbayMagentoConnectorMenu.png" alt="navigation_eBay Connector for Magento2" />
+![navigation_eBay Connector for Magento2](/images/EbayMagentoConnectorMenu.png)
 
 ### Map Category- eBay Connector for Magento2
 
@@ -478,19 +478,19 @@ The admin can map category, under the **eBay Magento Connector > Map Category** 
 
 View mapped categories with EAN, UPC, and eBay Store Category. Admin clicks “Map Category” to open a new page. Only one sub-category can be mapped at a time; parent categories aren’t allowed.
 
-[!\[image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Category-Mapping.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Category-Mapping.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Category-Mapping.png)
 
 **Note:**  If the admin has created any store on the eBay then, an additional field **“eBay Store Category”** will be visible. Thus, for that store, you might have created certain custom categories also.
 
 This **“eBay Store Category”** field will display those custom categories for mapping.
 
-[!\[mapping\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Map-Category.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Map-Category.png)
+![mapping](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Map-Category.png)
 
 ### Category Automation - eBay Connector for Magento2
 
 The **Category Automation** feature under **eBay Magento Connect > Category Automation** lets the admin fetch real-time eBay categories and automatically create the matching Magento category hierarchy, then map selected leaf categories to eBay without manual one-by-one mapping.
 
-<img src="/images/CategoriesUpdatedFeature/CategoryAutomation.png" alt="eBay Category Automation" />
+![eBay Category Automation](/images/CategoriesUpdatedFeature/CategoryAutomation.png)
 
 ***Search Filters Fields-***
 
@@ -503,11 +503,11 @@ The **Category Automation** feature under **eBay Magento Connect > Category Auto
 
 Use the search bar to filter by **Category ID / Name / Path**, then select one or more **leaf** categories (only leaf rows are selectable) from the grid columns **eBay Category ID**, **Name**, **Path**, and **Leaf**.
 
-<img src="/images/CategoriesUpdatedFeature/CategoryAutomationListing.png" alt="eBay Category Automation Listing" />
+![eBay Category Automation Listing](/images/CategoriesUpdatedFeature/CategoryAutomationListing.png)
 
 After loading categories, the admin can filter by parent category (for example, **Dolls & Bears**), review the full category path for each row, and select the leaf categories to automate. Pagination and rows-per-page controls help navigate large category trees.
 
-<img src="/images/CategoriesUpdatedFeature/CategoryAutomationMappingAndCreation.png" alt="eBay Category Automation Results" />
+![eBay Category Automation Results](/images/CategoriesUpdatedFeature/CategoryAutomationMappingAndCreation.png)
 
 When automation completes, a summary popup displays the results:
 
@@ -531,7 +531,7 @@ So, given below are the steps for Product Mapping.
 
 Navigate to **eBay Magento Connect > Map Product**. From the **Sync From eBay** dropdown, select **Import Product From eBay** to fetch product data from eBay and store it in the Magento database.
 
-<img src="/images/ProductImportUpdatedFeature/ProductImportOptions.png" alt="Map Product Sync From eBay Options" />
+![Map Product Sync From eBay Options](/images/ProductImportUpdatedFeature/ProductImportOptions.png)
 
 The **Sync From eBay** menu provides the following product sync actions:
 
@@ -543,7 +543,7 @@ The **Sync From eBay** menu provides the following product sync actions:
 
 After clicking **Import Product From eBay**, the following pop-up window will appear.
 
-<img src="/images/ProductImportUpdatedFeature/ImportProductPopup.png" alt="Import Product From eBay Popup" />
+![Import Product From eBay Popup](/images/ProductImportUpdatedFeature/ImportProductPopup.png)
 
 ***Import Fields-***
 
@@ -554,17 +554,17 @@ After clicking **Import Product From eBay**, the following pop-up window will ap
 
 Hence, click the **Import Product From eBay** button as visible in the screenshot above.
 
-[!\[image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Mapped-Products-List-eBay-Magento-Connect-Magento-Admin.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Mapped-Products-List-eBay-Magento-Connect-Magento-Admin.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Mapped-Products-List-eBay-Magento-Connect-Magento-Admin.png)
 
 When the admin will click on “Import Product from eBay”, the product data will be created and stored in Magento 2 database.
 
-[!\[image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/ebay-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/ebay-1.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/ebay-1.png)
 
 #### Bulk Migrate Listing
 
 From the **Sync From eBay** dropdown, select **Migrate Listing By ID** to migrate specific eBay listings into the Inventory API using their listing IDs.
 
-<img src="/images/ProductImportUpdatedFeature/BulkMigrateListing.png" alt="Bulk Migrate Listing" />
+![Bulk Migrate Listing](/images/ProductImportUpdatedFeature/BulkMigrateListing.png)
 
 ***Fields-***
 
@@ -579,17 +579,17 @@ You need to run the product profiler in order to create product entry in the Mag
 
 Hereafter completing the product profiler process, the imported products will be visible on the storefront immediately.
 
-<img src="/images/ProductImportUpdatedFeature/eBayProductProfiler-1.png" alt="Ebay-Connector-blog-2" />
+![Ebay-Connector-blog-2](/images/ProductImportUpdatedFeature/eBayProductProfiler-1.png)
 
 Hence, when the admin will click on **Run eBay Product Profiler. **Henceforth the products will be created on Magento 2 store from Magento 2 Database (synchronized from eBay).
 
-[!\[eBay Connector for Magento 2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-3-.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-3-.png)
+![eBay Connector for Magento 2](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-3-.png)
 
 ### 3. Run eBay product Image profiler
 
 Now you can run the product image profiler to import the product images in Magento 2.
 
-<img src="/images/ProductImportUpdatedFeature/EbayProductImageProfiler.png" alt="Ebay-Connector-blog-6" />
+![Ebay-Connector-blog-6](/images/ProductImportUpdatedFeature/EbayProductImageProfiler.png)
 
 Now, after running the profiler the imported product image will get displayed on the storefront. Hence the Images of the product will be created on Magento 2 store.
 
@@ -597,7 +597,7 @@ Now, after running the profiler the imported product image will get displayed on
 
 Click on Export to eBay to export products from Magento 2 to ebay.
 
-### <img src="/images/ProductImportUpdatedFeature/ExportProductToEbay.png" alt="Ebay-Connector-blog-3" />
+### ![Ebay-Connector-blog-3](/images/ProductImportUpdatedFeature/ExportProductToEbay.png)
 
 After clicking the **Export to eBay**, the admin will see a **pop-up** window.
 
@@ -609,7 +609,7 @@ So, the admin can even **export a single product** by entering the **SKU of the 
 
 However, the products whose visibility is set as Not Visible Individually will not be exported.
 
-[!\[image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/export-product-sku-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/export-product-sku-1.png)After clicking the “**Export Product to eBay**“, you will see the below screen. Now, when the ** synchronization** is complete you can see the total number of products synced to eBay.
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/export-product-sku-1.png)After clicking the “**Export Product to eBay**“, you will see the below screen. Now, when the ** synchronization** is complete you can see the total number of products synced to eBay.
 
 ![exporting message-eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/exporting-message.png)
 
@@ -619,7 +619,7 @@ The admin can now export the products via the product grid in the admin panel. T
 
 Then in action, the admin can select **Export to eBay.**
 
-[!\[catalog_export_product_eBay Connector for Magento2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/catalog_export_product.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/catalog_export_product.png)
+![catalog_export_product_eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/catalog_export_product.png)
 
 When products are exported to eBay — whether from **Map Product**, the **Catalog Product Grid**, or via **Automatic Product Export** — they are added to an export queue and processed in the background. The admin does not need to wait on the page; export status can be tracked from the **Export Queue Log** and **Bulk Export Tasks** screens under **eBay Magento Connect**.
 
@@ -627,7 +627,7 @@ When products are exported to eBay — whether from **Map Product**, the **Catal
 
 Navigate to **eBay Magento Connect > Export Queue Log** to monitor the status of each queued product export.
 
-<img src="/images/ExportProductRelatedImages/ExportQueueLog.png" alt="Export Queue Log" />
+![Export Queue Log](/images/ExportProductRelatedImages/ExportQueueLog.png)
 
 ***Grid Columns-***
 
@@ -652,7 +652,7 @@ Navigate to **eBay Magento Connect > Export Queue Log** to monitor the status of
 
 When **Use Bulk Feed API** is enabled under **Automatic Product Export To eBay**, products are exported in batches via the eBay Sell Feed API (`LMS_ADD_FIXED_PRICE_ITEM`). Navigate to **eBay Magento Connect > Bulk Export Tasks** to monitor these background batch jobs.
 
-<img src="/images/ExportProductRelatedImages/BulkExportTask.png" alt="Bulk Export Tasks" />
+![Bulk Export Tasks](/images/ExportProductRelatedImages/BulkExportTask.png)
 
 ***Grid Columns-***
 
@@ -677,7 +677,7 @@ Please make sure you have provided all the necessary information for the exporte
 
 However, you will need to mention ** eBay specifications, conditions, and variations** (if any) in Magento products.
 
-[!\[eBay-Product-Visible- eBay Connector for Magento2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/eBay-Product-Visible.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/eBay-Product-Visible.png)
+![eBay-Product-Visible- eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/eBay-Product-Visible.png)
 
 **Please Note: **
 
@@ -690,7 +690,7 @@ For example, the admin has mapped his Magento 2 **store category**(having camera
 
 Now, after the admin **exports** his product to **eBay **he can edit the imported product on eBay to check the product’s **eBay store category** according to the **mapping**.
 
-[!\[eBay-Product-Visible-eBay Connector for Magento2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Product-Detail-Category.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Product-Detail-Category.png)
+![eBay-Product-Visible-eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Product-Detail-Category.png)
 
 ### Bulk Action- Assign Categories
 
@@ -712,11 +712,11 @@ Thus, the admin can add a template by entering the title, content of the templat
 
 Here, the admin has mapped the **Magento Store Product Attributes** to the **Template variables** that are being used within the listing template.
 
-Now, when the admin creates the listing templates these **template variables** can be used within the template to send the respective item description data.[!\[magento2 ebay connector\](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/webkul-magento2-ebay-connector-listing-template-title.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/webkul-magento2-ebay-connector-listing-template-title.png)
+Now, when the admin creates the listing templates these **template variables** can be used within the template to send the respective item description data.![magento2 ebay connector](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/webkul-magento2-ebay-connector-listing-template-title.png)
 
 The admin can select product attributes and map them with the template variables so that the products can be exported to eBay with the listing template (item description).
 
-After the products are imported you can see the template variable values on the product description and on the edit product page.[!\[eBay Connector for Magento2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/webkul-magento2-ebay-connector-template-description.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/webkul-magento2-ebay-connector-template-description.png)
+After the products are imported you can see the template variable values on the product description and on the edit product page.![eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2019/03/webkul-magento2-ebay-connector-template-description.png)
 
 On the **edit** product page at **eBay,** you can see these values under the **Item Description** section.
 
@@ -728,7 +728,7 @@ This section will help the admin to create a price rule which will be applied to
 
 On Price Rules For the eBay page, the admin can create multiple rules by clicking on **Add Rule.** However, the admin can even **edit** the previous price rule.
 
-[!\[image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-8-.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-8-.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-8-.png)
 
 The price rule can be created by the admin by filling the following information-
 
@@ -739,7 +739,7 @@ The price rule can be created by the admin by filling the following information-
 - Price- The admin can state here the amount which will be added or deducted from the product amount.
 - Status– The admin can enable or disable the status of the price rule.
 
-[!\[image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-9-.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-9-.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-9-.png)
 
 ## Application of Price Rule
 
@@ -747,11 +747,11 @@ The price rule can be created by the admin by filling the following information-
 
 For instance, we have a price rule of increase in price at a fixed rate of $2 with a price range of $1-$30. On Magento end, we create a product with a price of $24 as below.
 
-[!\[image_eBay Connector for Magento2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-18-.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-18-.png)
+![image_eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-18-.png)
 
 Then as we export this product to eBay the price will automatically be incremented to $26 as per the rule.
 
-[!\[eBay Connector for Magento 2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/T-shirt-Polo-eBay.png)](https://webkul.com/blog/ebay-connector-for-magento2/t-shirt-polo-ebay/)
+[![eBay Connector for Magento 2](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/T-shirt-Polo-eBay.png)](https://webkul.com/blog/ebay-connector-for-magento2/t-shirt-polo-ebay/)
 
 However, the same rule will act opposite if we import the same product from eBay to the Magento store.
 
@@ -763,11 +763,11 @@ Now as we import the product to Magento store the price of the product at Magent
 
 Now the admin has the same price rule of increase in price at a fixed rate of $2 with a price range of $1-$30. The product is now on eBay at the price of $26 as given below.
 
-[!\[image_eBay Connector for Magento2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/T-shirt-PoloXX-eBay.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/T-shirt-PoloXX-eBay.png)
+![image_eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/T-shirt-PoloXX-eBay.png)
 
 Now, if the product gets imported the price of the product at the Magento store will be incremented by $2 as shown below.
 
-[!\[image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/White-Tops.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/White-Tops.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/White-Tops.png)
 
 Please notify here, the same rule will act opposite if we export the same product from eBay to Magento store.
 
@@ -791,7 +791,7 @@ And these attributes label will be followed by eBay category name from where eBa
 
 This option will come for every product in the back-end while editing or adding any new product. In eBay specification, admin can see various attributes with the label.
 
-[!\[ebay specificaitions\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/ebay-specificaitions.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/ebay-specificaitions.png)
+![ebay specificaitions](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/ebay-specificaitions.png)
 
 ### Map order
 
@@ -805,7 +805,7 @@ The admin can import the orders from the eBay store.
 
 Here, the admin will click on “Import Order from eBay” tab, an eBay Order Range page will open as per the below image.
 
-[!\[image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/IMPORT-ORDER.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/IMPORT-ORDER.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/IMPORT-ORDER.png)
 
 The admin will enter the date range. Proceed by clicking on **Import Order from eBay** and then orders will be imported from eBay to Magento 2 store.
 
@@ -819,7 +819,7 @@ Thus, if the eBay Product is not synced with Magento 2 store then the system wil
 
 **2. Run eBay Order Profiler**
 
-[!\[Run eBay Order profiler\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Map-eBay-Order.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Map-eBay-Order.png)
+![Run eBay Order profiler](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Map-eBay-Order.png)
 
 Now, the admin will click on **Run eBay Order Profiler** and orders from eBay will be imported and admin can see how much orders are imported and how many orders are left.
 
@@ -848,7 +848,7 @@ So, the information about the orders is displayed which could not import in real
 
 The Grouped product created on Magento 2 store can be easily exported to eBay. So, this can be done post creation of the grouped product on Magento 2 Store.
 
-[!\[eBay Connector for Magento 2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-12.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-12.png)
+![eBay Connector for Magento 2](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-12.png)
 
 After this admin needs to go to **Map Product** option. Thus, this will open a page **Mapped Products List, **where the admin can select ** Export to eBay. **
 
@@ -856,25 +856,25 @@ After this admin needs to go to **Map Product** option. Thus, this will open a p
 
 Thus, this export product can be seen on the eBay account under ** Sell>All selling.**
 
-[!\[image-eBay Connector for Magento2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/My-eBay-All-Selling.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/My-eBay-All-Selling.png)
+![image-eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/My-eBay-All-Selling.png)
 
 Hence, on clicking the respective product you can find the product details on product page.
 
-[!\[image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-13-.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-13-.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-13-.png)
 
 ### Bundle Products Export to Ebay
 
 The bundle product created on Magento 2 store can be easily exported to eBay. Thus, this can be done post-creation of the bundle product on Magento 2 Store.
 
-[!\[bundledproducts\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/bundledproducts.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/bundledproducts.png)After this admin needs to go to **Map Product** option, which will open a page **Mapped Products List, **where admin can select ** Export to eBay.**
+![bundledproducts](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/bundledproducts.png)After this admin needs to go to **Map Product** option, which will open a page **Mapped Products List, **where admin can select ** Export to eBay.**
 
 ![Ebay-Connector-blog-4-1](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Ebay-Connector-blog-4-1.png)
 
 So, this exported product can be seen on the eBay account under ** Sell>All selling.**
 
-[!\[My eBay All Selling\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/My-eBay-All-Selling-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/My-eBay-All-Selling-1.png)So, on clicking the respective product you can find the product details on product page. Thus, the customer can select the products in the bundle to complete the bundle.
+![My eBay All Selling](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/My-eBay-All-Selling-1.png)So, on clicking the respective product you can find the product details on product page. Thus, the customer can select the products in the bundle to complete the bundle.
 
-[!\[Yoga Kits eBay\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Yoga-Kits-eBay.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Yoga-Kits-eBay.png)
+![Yoga Kits eBay](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Yoga-Kits-eBay.png)
 
 ### eBay Motors Integration
 
@@ -882,7 +882,7 @@ The Magento 2 eBay Connector also works with **[eBay Motors](https://www.ebay.co
 
 Hereafter the successful connection, you will be able to synchronize products, categories. and orders from eBay to Magento 2 store.
 
-[!\[ebay motors homepage-eBay Connector for Magento2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/04/ebay-motors-homepage.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/04/ebay-motors-homepage.png)
+![ebay motors homepage-eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2017/04/ebay-motors-homepage.png)
 
 ### Steps-
 
@@ -890,7 +890,7 @@ Hereafter the successful connection, you will be able to synchronize products, c
 
 Hence first, you need to go to **Stores> Configuration> Webkul> eBay Magento Connect** and select the **eBay Motors** option in **Global Sites**.
 
-[!\[select ebay motors options_eBay Connector for Magento2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/select-ebay-motors-options.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/select-ebay-motors-options.png)
+![select ebay motors options_eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/select-ebay-motors-options.png)
 
 ### 2 – Import eBay Motors Categories
 
@@ -898,11 +898,11 @@ Hereafter, you need to import all the category information from eBay Motors to t
 
 So, to do that go to the **Import eBay Categories** section and click the button.
 
-[!\[import categories\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/import-categories.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/import-categories.png)
+![import categories](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/import-categories.png)
 
 Thus, a success message will appear after importing all the eBay categories.
 
-[!\[categories import message_eBay Connector for Magento2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/categories-import-message.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/categories-import-message.png)
+![categories import message_eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/categories-import-message.png)
 
 ### 3 – Mapping the eBay Motors category with the store category
 
@@ -916,43 +916,43 @@ So, to map a category go to **eBay Magento Connect>Map Category>Map New Category
 
 Hence following page will open, now select the store category and match it with the eBay category. Also, select the Magento attribute set according to the products.
 
-[!\[mapping ebay motors categories\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/mapping-ebay-motors-categories.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/mapping-ebay-motors-categories.png)
+![mapping ebay motors categories](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/mapping-ebay-motors-categories.png)
 
 Thus, saving your mapped category information. It will get add to the mapped categories list.
 
-[!\[image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-14-.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-14-.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-14-.png)
 
 ### 4 – Importing products from eBay Motors to Magento 2
 
 Now to import products from eBay Motors go to **eBay Magento Connect>Map Product>Sync from eBay>Import from eBay**.
 
-[!\[Ebay-Connector-blog-5\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Ebay-Connector-blog-5.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/import-from-ebay-button.png)
+[![Ebay-Connector-blog-5](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Ebay-Connector-blog-5.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/import-from-ebay-button.png)
 
 Select the date range for importing eBay products. Can even check if import only eBay Active Products. However, post that click Import Product from the eBay button.
 
-[!\[image-eBay Connector for Magento2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Mapped-Products-List-eBay-Magento-Connect-Magento-Admin-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Mapped-Products-List-eBay-Magento-Connect-Magento-Admin-1.png)
+![image-eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Mapped-Products-List-eBay-Magento-Connect-Magento-Admin-1.png)
 
 Thus, you will get a pop-up message showing the number of products imported. So, next, you need to go to **Sync from eBay** option and select **Run eBay Product Profiler**.
 
 So, this option will start adding the importing products to the Magento catalog.
 
-[!\[run import profiler\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/run-import-profiler.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/run-import-profiler.png)
+![run import profiler](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/run-import-profiler.png)
 
 Here is the sample product which got import from eBay Motors to Magento 2 store.
 
 **eBay View**
 
-[!\[import product on ebay\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/import-product-on-ebay-1.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/import-product-on-ebay-1.png)
+![import product on ebay](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/import-product-on-ebay-1.png)
 
 **Magento 2 View**
 
-[!\[imported product on magento 2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/imported-product-on-magento-2.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/imported-product-on-magento-2.png)
+![imported product on magento 2](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/imported-product-on-magento-2.png)
 
 **Mapped Product List**
 
 Herein, the admin can view all the synchronized products list. Thus, it will show both imported as well as exported products.
 
-[!\[image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-10-.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-10-.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-10-.png)
 
 ### 5 – Exporting products from Magento 2 to eBay Motors
 
@@ -962,21 +962,21 @@ Thus, Enter a product SKU or leave it blank.
 
 However, if left blank all the Magento store products will get export to eBay Motors.
 
-[!\[image_eBay Connector for Magento2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/export-product-sku-2.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/export-product-sku-2.png)
+![image_eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/export-product-sku-2.png)
 
 After clicking the **Export Product to eBay** button, the export profiler will run. So, it will start listing your products on eBay.
 
-[!\[exporting message\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/exporting-message.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/exporting-message.png)
+![exporting message](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/exporting-message.png)
 
 So, here is the sample product that we have exported from Magento 2 to eBay Motors.
 
 **Magento 2 store view**
 
-[!\[exported product eBay Connector for Magento2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/2017-08-09_17-17-09.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/2017-08-09_17-17-09.png)
+![exported product eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/2017-08-09_17-17-09.png)
 
 **eBay  view**
 
-[!\[image_eBay Connector for Magento2\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/exported-product-on-ebay-view.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/exported-product-on-ebay-view.png)
+![image_eBay Connector for Magento2](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/exported-product-on-ebay-view.png)
 
 **Exported product’s Shipping and Payment details**
 

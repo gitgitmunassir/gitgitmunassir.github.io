@@ -10,8 +10,8 @@ So, to map a category go to **eBay Magento Connect>Map Category>Map New Category
 
 Hence following page will open, now select the store category and match it with the eBay category. Also, select the Magento attribute set according to the products.
 
-[!\[mapping ebay motors categories\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/mapping-ebay-motors-categories.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/mapping-ebay-motors-categories.png)
+![mapping ebay motors categories](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/mapping-ebay-motors-categories.png)
 
 Thus, saving your mapped category information. It will get add to the mapped categories list.
 
-[!\[image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-14-.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-14-.png)
+![image](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/download-14-.png)

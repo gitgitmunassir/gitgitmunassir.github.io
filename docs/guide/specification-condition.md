@@ -14,4 +14,4 @@ And these attributes label will be followed by eBay category name from where eBa
 
 This option will come for every product in the back-end while editing or adding any new product. In eBay specification, admin can see various attributes with the label.
 
-[!\[ebay specificaitions\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/ebay-specificaitions.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/ebay-specificaitions.png)
+![ebay specificaitions](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/ebay-specificaitions.png)

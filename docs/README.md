@@ -1,15 +1,14 @@
 ---
 home: true
 title: eBay Connector for Magento 2
-heroImage: /logo.svg
-heroText: eBay Connector for Magento 2
-tagline: Official documentation for Webkul eBay ↔ Magento 2 integration — import, export, sync orders, and automate listings.
+heroText: eBay Connector for Magento 2 Documentation
+tagline: Sync Magento 2 catalog, orders, and inventory with eBay. Configure credentials, map categories, import listings, and automate exports from your admin.
 actions:
-  - text: Get Started
-    link: /guide/
+  - text: Quick Start
+    link: /guide/quick-start.html
     type: primary
-  - text: Live Demo
-    link: https://magento2demo.webkul.in/ebayconnector/?demo=Webkul_Ebaymagentoconnect
+  - text: Installation
+    link: /guide/installation.html
     type: secondary
   - text: Buy Now
     link: https://store.webkul.com/magento2-ebay-connector.html

@@ -12,6 +12,13 @@ html.dark {
 
 .vp-navbar {
   border-bottom: 1px solid rgba(229, 50, 56, 0.15);
+
+  .vp-site-logo {
+    max-height: 2rem;
+    height: 2rem;
+    width: auto;
+    object-fit: contain;
+  }
 }
 
 .vp-navbar .vp-btn,
@@ -34,26 +41,43 @@ html.dark {
     .title {
       font-size: 2.6rem;
       font-weight: 800;
-      background: linear-gradient(135deg, var(--wk-brand) 0%, #ff6b35 100%);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
+      color: var(--vp-c-text);
     }
 
     .description {
       font-size: 1.15rem;
-      color: var(--wk-muted);
+      color: var(--vp-c-text-mute);
       max-width: 720px;
       margin: 0 auto;
+      line-height: 1.7;
     }
 
-    .actions .vp-btn.primary {
-      background: var(--wk-brand);
-      border-color: var(--wk-brand);
+    .actions {
+      margin-top: 2rem;
 
-      &:hover {
-        background: var(--wk-brand-dark);
-        border-color: var(--wk-brand-dark);
+      .vp-btn {
+        min-width: 9rem;
+        font-weight: 600;
+      }
+
+      .vp-btn.primary {
+        background: var(--wk-brand);
+        border-color: var(--wk-brand);
+        color: #fff;
+
+        &:hover {
+          background: var(--wk-brand-dark);
+          border-color: var(--wk-brand-dark);
+        }
+      }
+
+      .vp-btn.secondary {
+        border-color: var(--wk-brand);
+        color: var(--wk-brand);
+
+        &:hover {
+          background: rgba(229, 50, 56, 0.08);
+        }
       }
     }
   }

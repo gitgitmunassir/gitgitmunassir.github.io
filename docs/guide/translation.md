@@ -15,4 +15,4 @@ So, the module will translate into the German Language. However, it supports bot
 ![multi-language-csv](https://cdnblog.webkul.com/blog/wp-content/uploads/2023/09/multi-language-csv.webp)
 
 Thus, the user can edit the CSV like the image below.  
-[!\[eBay Connector for Magento2 image\](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Screenshot-from-2018-04-23-17-33-44.png)](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Screenshot-from-2018-04-23-17-33-44.png)
+![eBay Connector for Magento2 image](https://cdnblog.webkul.com/blog/wp-content/uploads/2016/03/Screenshot-from-2018-04-23-17-33-44.png)
